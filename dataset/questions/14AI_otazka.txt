@@ -1,0 +1,1 @@
+Jak se nový model pro rozpoznávání emocí liší od předchozích modelů?
