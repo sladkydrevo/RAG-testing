@@ -1,6 +1,7 @@
 # Evaluace RAG systémů a LLM na češtině / RAG system and LLM evaluation on Czech texts
 
 Autor / author: Tereza Brožová
+
 LinkedIn: https://www.linkedin.com/in/tereza-brožová-003601328/
 
 ### Abstrakt / abstract
